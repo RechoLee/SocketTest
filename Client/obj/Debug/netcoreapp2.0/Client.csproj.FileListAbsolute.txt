@@ -1,0 +1,10 @@
+G:\dotNetProject\Scoket\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+G:\dotNetProject\Scoket\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.json
+G:\dotNetProject\Scoket\Client\bin\Debug\netcoreapp2.0\Client.runtimeconfig.dev.json
+G:\dotNetProject\Scoket\Client\bin\Debug\netcoreapp2.0\Client.dll
+G:\dotNetProject\Scoket\Client\bin\Debug\netcoreapp2.0\Client.pdb
+G:\dotNetProject\Scoket\Client\obj\Debug\netcoreapp2.0\Client.csproj.CoreCompileInputs.cache
+G:\dotNetProject\Scoket\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+G:\dotNetProject\Scoket\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
+G:\dotNetProject\Scoket\Client\obj\Debug\netcoreapp2.0\Client.dll
+G:\dotNetProject\Scoket\Client\obj\Debug\netcoreapp2.0\Client.pdb
